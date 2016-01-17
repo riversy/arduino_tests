@@ -1,0 +1,5 @@
+*.i
+.DS_Store
+.hgignore
+.hgtags
+*.hg
